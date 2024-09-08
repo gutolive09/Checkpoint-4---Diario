@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diario</string>
+    <string name="pag_home">Home</string>
+    <string name="pag_diario">Diário</string>
+    <string name="pag_equipe">Equipe</string>
+    <string name="card_text">Este é o seu espaço pessoal para registrar pensamentos, emoções e momentos importantes do seu dia a dia. Aqui, você pode escrever livremente, refletir sobre suas experiências e acompanhar sua jornada ao longo do tempo.</string>
+</resources>
